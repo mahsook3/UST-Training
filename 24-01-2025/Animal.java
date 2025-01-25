@@ -21,7 +21,7 @@ public class Problem3 {
         Animal myDog = new Dog();
         Animal myCat = new Cat();
 
-        myDog.sound(); // Outputs: Bark
-        myCat.sound(); // Outputs: Meow
+        myDog.sound();
+        myCat.sound(); 
     }
 }
