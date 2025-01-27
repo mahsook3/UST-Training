@@ -1,4 +1,4 @@
-public abstract class User {
+abstract class User { // Changed from public to package-private
     public abstract void displayRole();
 }
 

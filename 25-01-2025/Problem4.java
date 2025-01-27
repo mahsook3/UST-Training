@@ -1,4 +1,4 @@
-public abstract class Book {
+abstract class Book { // Changed from public to package-private
     public abstract void displayInfo();
 }
 

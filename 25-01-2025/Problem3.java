@@ -1,4 +1,4 @@
-public abstract class Payment {
+abstract class Payment { // Changed from public to package-private
     public abstract void processPayment(double amount);
 }
 
